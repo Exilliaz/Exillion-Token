@@ -1,2 +1,2 @@
 # Exillian-Token
-Exillian Token logo and metadata for Solana Token List
+Exillian Token Logo and Metadata for Solana Token List
