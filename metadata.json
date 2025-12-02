@@ -1,6 +1,19 @@
 {
   "name": "Exillion",
   "symbol": "EXXE",
-  "description": " Exillion (EXXI) is a fungible utility token built on Solana, envisioned as the first interplanetary currency for future exchange, powered by the finecosystem concept.",
-  "image": "https://raw.githubusercontent.com/Exilliaz/Exillion-Token/fa97b300b839ae10abcf483a54839eef80373f55/Exillion%20Token.png"
+  "description": "Exillion (EXXE) is a fungible utility token built on Solana, envisioned as the first interplanetary currency for future exchange, powered by the finecosystem concept.",
+  "image": "https://raw.githubusercontent.com/Exilliaz/Exillion-Token/main/Exillion%20Token.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri":"https://raw.githubusercontent.com/Exilliaz/Exillion-Token/fa97b300b839ae10abcf483a54839eef80373f55/Exillion%20Token.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
